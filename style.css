@@ -104,7 +104,7 @@ body {
     height: 2px;
     bottom: -2px;
     left: 0;
-    background: linear-gradient(90deg, #8B4513, #D4AF37);
+    background: linear-gradient(90deg, #FFBF00, #FDDC5C);
     transition: width 0.3s ease;
 }
 
