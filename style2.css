@@ -8,7 +8,7 @@
 body {
     background-image: url('pic2.jpg');
     background-repeat: no-repeat;
-    background-attachment: fixed;  
+    background-attachment: scroll;  
     background-size: cover;
     background-blend-mode: lighten;
     min-height: 100vh;
@@ -86,12 +86,12 @@ body {
     font-size: 20px;
     line-height: 1.6;
     text-align: center;
-    color: #D4AF37;
+    color: #000000;
 }
 
 .description > a {
     text-decoration: none;
-    color: #D4AF37;
+    color: #000000;
     font-weight: bold;
     transition: all 0.3s ease;
     position: relative;
